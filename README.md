@@ -3,11 +3,11 @@
 <p align="center">
 👩🏼‍💻 University Technician in Computer Science, advanced student of Bachelor's Degree in Systems, and also programming teacher 🍎
 <br>
-Lover of software development and problem-solving. I enjoy working in teams, meeting people, and developing new skills.</p>
+✨ Lover of software development and problem-solving. I enjoy working in teams, meeting people, and developing new skills 🤓</p>
 
 ---
 
-### 🛠️ Technologies and tools
+### 💻 Technologies and tools
 
 <p align="left">
   <!-- Lenguajes -->
@@ -48,11 +48,11 @@ Lover of software development and problem-solving. I enjoy working in teams, mee
 
 ---
 
-### 🌐 Contacto y redes
+### 🌐 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucía-soria-7-66411b0)  
 📬 luciacsoria5@gmail.com  
-🌐 [Portfolio](https://tuportfolio.com) *(opcional)*
+🙆🏼‍♀️ [Portfolio](https://portfolio-luciasoria5s-projects.vercel.app)
 
 ---
 
