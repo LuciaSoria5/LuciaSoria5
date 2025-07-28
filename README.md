@@ -48,11 +48,11 @@
 
 ---
 
-### 🌐 How to reach me
+### 📬 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucía-soria-7-66411b0)  
-📬 luciacsoria5@gmail.com  
-🙆🏼‍♀️ [Portfolio](https://portfolio-luciasoria5s-projects.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/lucía-soria-7-66411b0)  
+✉️ luciacsoria5@gmail.com  
+🙆🏼‍♀️ [My portfolio](https://portfolio-luciasoria5s-projects.vercel.app)
 
 ---
 
