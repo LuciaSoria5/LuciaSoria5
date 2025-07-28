@@ -63,4 +63,4 @@
 
 ---
 
-_Thank you for your visit 🤩_
+<p align="center" style="font-style: italic;">Thank you for your visit 🍀</p>
