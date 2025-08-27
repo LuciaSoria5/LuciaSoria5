@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi! I'm Lucía ✨</h1>
 
 <h3 align="center" >
-👩🏼‍💻 Software Developer | University Technician in Computer Science | Advanced Systems Engineering student 🤩 
+👩🏼‍💻 Software Developer | University Technician in Computer Science | Systems Engineering Student 🤩 
 <br>
 🚀 Lover of Software Development | Optimization Enthusiast 🤓</h3>
 
