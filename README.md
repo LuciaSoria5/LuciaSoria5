@@ -1,15 +1,13 @@
-<h1 align="center">Hi! I'm Lucía 👋</h1>
+<h1 align="center">✨ Hi! I'm Lucía ✨</h1>
 
-<p align="center">
-👩🏼‍💻 Software developer, University Technician in Computer Science, advanced Systems Engineering student 🤩 
+<h3 align="center" >
+👩🏼‍💻 Software Developer | University Technician in Computer Science | Advanced Systems Engineering student 🤩 
 <br>
-✨ Lover of software development, optimization, and problem-solving. I enjoy working in teams, meeting people, and developing new skills 🤓</p>
+🚀 Lover of Software Development | Optimization Enthusiast 🤓</h3>
 
 ---
 
-### 💻 Tech stack
-
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -47,20 +45,22 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciaSoria5&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🌎 How to reach me
-
-💼 [LinkedIn](https://www.linkedin.com/in/lucía-soria-7-66411b0)  
-✉️ luciacsoria5@gmail.com  
-🙆🏼‍♀️ [My portfolio](https://portfolio-luciasoria5s-projects.vercel.app)
+<h3 align="center">📊 GitHub Stats</h3>
+<h4 align="center" >
+  <img height="180em" src="https://streak-stats.demolab.com?user=LuciaSoria5&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaSoria5&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciaSoria5&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+</h4>
 
 ---
 
-<p align="center" style="font-style: italic;">Thank you for your visit 🍀</p>
+<h3 align="center">📝 How to reach me</h3>
+<h4 align="center" >
+💼 <a href="https://www.linkedin.com/in/lucía-soria-7-66411b0">LinkedIn </a>  
+🙆🏼‍♀️ <a href="https://portfolio-luciasoria5s-projects.vercel.app"> My portfolio</a>
+</h4>
+
+---
+
+<h4 align="center" style="font-style: italic;">🍀 Thank you for your visit 💡</h4>
